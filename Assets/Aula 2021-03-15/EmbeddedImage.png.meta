@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 3627c21b6ec5dd94684d1be9b866b853
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6622005036534600208
+    second: boca_A
+  - first:
+      213: 3312604247404534423
+    second: boca_O
+  - first:
+      213: 8783761266437597816
+    second: boca_E
+  - first:
+      213: 7539728636454622951
+    second: EmbeddedImage_3
+  - first:
+      213: 173536184398494471
+    second: EmbeddedImage_4
+  - first:
+      213: -1414641602911943
+    second: EmbeddedImage_5
+  - first:
+      213: -3838094562771206060
+    second: EmbeddedImage_6
+  - first:
+      213: -2473817552040719592
+    second: EmbeddedImage_7
+  - first:
+      213: 8485807200938603556
+    second: boca_LN
+  - first:
+      213: 5405522124852374390
+    second: boca_WR
+  - first:
+      213: -8679228307699124783
+    second: boca_TS
+  - first:
+      213: -953292037294254139
+    second: EmbeddedImage_11
+  - first:
+      213: 419219346181044089
+    second: EmbeddedImage_12
+  - first:
+      213: -993655280462282650
+    second: EmbeddedImage_13
+  - first:
+      213: 9032990280480369831
+    second: EmbeddedImage_14
+  - first:
+      213: 5690721205714333294
+    second: EmbeddedImage_15
+  - first:
+      213: 2891268294574117308
+    second: EmbeddedImage_16
+  - first:
+      213: -923350579652976331
+    second: EmbeddedImage_17
+  - first:
+      213: 4507775152980983397
+    second: EmbeddedImage_18
+  - first:
+      213: -1003673969423299560
+    second: EmbeddedImage_19
+  - first:
+      213: -3242417122491942957
+    second: boca_MPB
+  - first:
+      213: 111538590740107856
+    second: boca_FV
+  - first:
+      213: 4895046743450042353
+    second: boca_UQ
+  - first:
+      213: 8787101818615854299
+    second: EmbeddedImage_23
+  - first:
+      213: 6114650099003642925
+    second: EmbeddedImage_24
+  - first:
+      213: 7940724966026983850
+    second: EmbeddedImage_25
+  - first:
+      213: -2013103061404681899
+    second: EmbeddedImage_26
+  - first:
+      213: 3387635364673177309
+    second: EmbeddedImage_27
+  - first:
+      213: 2468199218301715138
+    second: EmbeddedImage_28
+  - first:
+      213: 2849305154802187306
+    second: EmbeddedImage_29
+  - first:
+      213: 7820965368348214187
+    second: EmbeddedImage_30
+  - first:
+      213: 81000482898848609
+    second: EmbeddedImage_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boca_A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 73
+        height: 49
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5493447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde1801189e914a0800000000000000
+      internalID: -6622005036534600208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boca_O
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 200
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4395523, y: 0.9518312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a5ff7130cb8fd20800000000000000
+      internalID: 3312604247404534423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boca_E
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 202
+        width: 68
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.54133135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a29dd555036e970800000000000000
+      internalID: 8783761266437597816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boca_LN
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 107
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5134328, y: 0.5788445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b56480b4a3c570800000000000000
+      internalID: 8485807200938603556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boca_WR
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 105
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.847673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b275d9bb5440b40800000000000000
+      internalID: 5405522124852374390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boca_TS
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 110
+        width: 66
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49389395, y: 0.48778787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d53413b6df2d8780800000000000000
+      internalID: -8679228307699124783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boca_MPB
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 24
+        width: 62
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5915874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d739306ece9003d0800000000000000
+      internalID: -3242417122491942957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boca_FV
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 24
+        width: 74
+        height: 30
+      alignment: 9
+      pivot: {x: 0.51633704, y: 0.31193987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052dfcfd1c34c8100800000000000000
+      internalID: 111538590740107856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boca_UQ
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: 0.44962668, y: 0.96055424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb54ef313bee340800000000000000
+      internalID: 4895046743450042353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
