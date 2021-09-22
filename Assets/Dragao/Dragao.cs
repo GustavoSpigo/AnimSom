@@ -11,6 +11,7 @@ public class Dragao : MonoBehaviour
 
     public Material parede;
     public Transform parede2;
+    
 
     void Start()
     {
